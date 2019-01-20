@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "JEE Main Result Checker", "Login Complete without OCR\JEE Main Result Checker.vbproj", "{89DA3853-8C1D-422E-BC3E-7A7A0B6099FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89DA3853-8C1D-422E-BC3E-7A7A0B6099FE}.Debug|x86.ActiveCfg = Debug|x86
+		{89DA3853-8C1D-422E-BC3E-7A7A0B6099FE}.Debug|x86.Build.0 = Debug|x86
+		{89DA3853-8C1D-422E-BC3E-7A7A0B6099FE}.Release|x86.ActiveCfg = Release|x86
+		{89DA3853-8C1D-422E-BC3E-7A7A0B6099FE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
