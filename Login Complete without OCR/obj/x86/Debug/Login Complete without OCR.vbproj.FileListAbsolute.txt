@@ -1,0 +1,20 @@
+C:\Users\niteo\Documents\Visual Studio 2010\Projects\Login Complete without OCR\Login Complete without OCR\bin\Debug\Login Complete without OCR.exe
+C:\Users\niteo\Documents\Visual Studio 2010\Projects\Login Complete without OCR\Login Complete without OCR\bin\Debug\Login Complete without OCR.pdb
+C:\Users\niteo\Documents\Visual Studio 2010\Projects\Login Complete without OCR\Login Complete without OCR\bin\Debug\Login Complete without OCR.xml
+C:\Users\niteo\Documents\Visual Studio 2010\Projects\Login Complete without OCR\Login Complete without OCR\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\niteo\Documents\Visual Studio 2010\Projects\Login Complete without OCR\Login Complete without OCR\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\niteo\Documents\Visual Studio 2010\Projects\Login Complete without OCR\Login Complete without OCR\obj\x86\Debug\Login Complete without OCR.vbproj.GenerateResource.Cache
+C:\Users\niteo\Documents\Visual Studio 2010\Projects\Login Complete without OCR\Login Complete without OCR\obj\x86\Debug\Login Complete without OCR.exe
+C:\Users\niteo\Documents\Visual Studio 2010\Projects\Login Complete without OCR\Login Complete without OCR\obj\x86\Debug\Login Complete without OCR.xml
+C:\Users\niteo\Documents\Visual Studio 2010\Projects\Login Complete without OCR\Login Complete without OCR\obj\x86\Debug\Login Complete without OCR.pdb
+C:\Users\niteo\Desktop\Login Complete without OCR\Login Complete without OCR\bin\Debug\Login Complete without OCR.exe.config
+C:\Users\niteo\Desktop\Login Complete without OCR\Login Complete without OCR\bin\Debug\Login Complete without OCR.exe
+C:\Users\niteo\Desktop\Login Complete without OCR\Login Complete without OCR\bin\Debug\Login Complete without OCR.pdb
+C:\Users\niteo\Desktop\Login Complete without OCR\Login Complete without OCR\bin\Debug\Login Complete without OCR.xml
+C:\Users\niteo\Desktop\Login Complete without OCR\Login Complete without OCR\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\niteo\Desktop\Login Complete without OCR\Login Complete without OCR\obj\x86\Debug\Login Complete without OCR.vbproj.GenerateResource.Cache
+C:\Users\niteo\Desktop\Login Complete without OCR\Login Complete without OCR\obj\x86\Debug\Login Complete without OCR.exe
+C:\Users\niteo\Desktop\Login Complete without OCR\Login Complete without OCR\obj\x86\Debug\Login Complete without OCR.xml
+C:\Users\niteo\Desktop\Login Complete without OCR\Login Complete without OCR\obj\x86\Debug\Login Complete without OCR.pdb
+C:\Users\niteo\Desktop\Login Complete without OCR\Login Complete without OCR\obj\x86\Debug\Login Complete without OCR.vbprojResolveAssemblyReference.cache
+C:\Users\niteo\Desktop\Login Complete without OCR\Login Complete without OCR\obj\x86\Debug\WindowsApplication1.JeeMain.resources

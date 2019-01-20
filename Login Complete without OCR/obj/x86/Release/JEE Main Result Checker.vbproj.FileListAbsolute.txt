@@ -1,0 +1,20 @@
+C:\Users\niteo\Desktop\Login Complete without OCR\Login Complete without OCR\bin\Release\Login Complete without OCR.exe.config
+C:\Users\niteo\Desktop\Login Complete without OCR\Login Complete without OCR\bin\Release\Login Complete without OCR.exe
+C:\Users\niteo\Desktop\Login Complete without OCR\Login Complete without OCR\bin\Release\Login Complete without OCR.pdb
+C:\Users\niteo\Desktop\Login Complete without OCR\Login Complete without OCR\bin\Release\Login Complete without OCR.xml
+C:\Users\niteo\Desktop\Login Complete without OCR\Login Complete without OCR\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\niteo\Desktop\Login Complete without OCR\Login Complete without OCR\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\niteo\Desktop\Login Complete without OCR\Login Complete without OCR\obj\x86\Release\JEE Main Result Checker.vbproj.GenerateResource.Cache
+C:\Users\niteo\Desktop\Login Complete without OCR\Login Complete without OCR\obj\x86\Release\Login Complete without OCR.exe
+C:\Users\niteo\Desktop\Login Complete without OCR\Login Complete without OCR\obj\x86\Release\Login Complete without OCR.xml
+C:\Users\niteo\Desktop\Login Complete without OCR\Login Complete without OCR\obj\x86\Release\Login Complete without OCR.pdb
+C:\Users\niteo\Desktop\JEE Main Result Checker\Login Complete without OCR\bin\Release\JEE Main Result Checker.exe.config
+C:\Users\niteo\Desktop\JEE Main Result Checker\Login Complete without OCR\bin\Release\JEE Main Result Checker.exe
+C:\Users\niteo\Desktop\JEE Main Result Checker\Login Complete without OCR\bin\Release\JEE Main Result Checker.pdb
+C:\Users\niteo\Desktop\JEE Main Result Checker\Login Complete without OCR\bin\Release\JEE Main Result Checker.xml
+C:\Users\niteo\Desktop\JEE Main Result Checker\Login Complete without OCR\obj\x86\Release\JEEMainResultChecker.Form1.resources
+C:\Users\niteo\Desktop\JEE Main Result Checker\Login Complete without OCR\obj\x86\Release\JEEMainResultChecker.Resources.resources
+C:\Users\niteo\Desktop\JEE Main Result Checker\Login Complete without OCR\obj\x86\Release\JEE Main Result Checker.vbproj.GenerateResource.Cache
+C:\Users\niteo\Desktop\JEE Main Result Checker\Login Complete without OCR\obj\x86\Release\JEE Main Result Checker.exe
+C:\Users\niteo\Desktop\JEE Main Result Checker\Login Complete without OCR\obj\x86\Release\JEE Main Result Checker.xml
+C:\Users\niteo\Desktop\JEE Main Result Checker\Login Complete without OCR\obj\x86\Release\JEE Main Result Checker.pdb
