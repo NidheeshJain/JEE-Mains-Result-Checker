@@ -1,10 +1,13 @@
-# jeemainresultchecker
+# jee mains result checker
 This small tool retrieves the JEE-Mains result data and saves you from any hassles of clicks and all.
 Since this is Open-Source you can also port it to check results of other exams or retrieve data from a website by some pre-defined macro actions. It would be Great if you leave the Credits in the software as it is :-)
 
 Requirements:<br />
 A working Internet Connection.<br />
 A Windows PC.
+
+Tested On:<br />
+Windows 10
 
 How To Check the result by standalone app:
 1. Download and run "JEE Main Result Checker.exe".
